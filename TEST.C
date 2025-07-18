@@ -3,7 +3,7 @@
 #include <ctype.h>
 #include <stdio.h>
 #include <unistd.h>
-#include <errno.h>
+#include <errno.h> //  new heading 
 
 // ================= FUNCTION PROTOTYPES =================
 void loadingAnimation(const char *message, int dots, int delayMs);
